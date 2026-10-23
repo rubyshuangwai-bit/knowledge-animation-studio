@@ -1,0 +1,1 @@
+Includes rendering, timeline, subtitle, animation and checking components adapted from dashi-animationstyle, Copyright (c) 2026 Dashi AI Lab（《大师的AI小灶》）, under the MIT License. See LICENSE and references/upstream.json. No upstream example voice recording is included. New orchestration and scene interface were developed for this workflow.

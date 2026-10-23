@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/chuspeeism/dashi-animationstyle",
+  "license": "MIT; example voice recording excluded",
+  "files_sha256": {
+    "pipeline/render.mjs": "2b3a1abaf5635e6dc3fa4131cbec6edf1aa03145df84427e8bde4c8ea828fc62",
+    "pipeline/生成timeline.mjs": "cfdfcaaa74b30044aac29c6519fa88eb6095a925a48d94901135a705694fc8f4",
+    "pipeline/动效部件.js": "c487f55345805564dc8bef1dea168b01c865baa0d46e16676573d38b33501996",
+    "pipeline/丰富度检查.mjs": "eb73e747e7aede5faaac005813370c151ec8b8d9ebaadd181b0abc3e0d4b2e35",
+    "pipeline/字幕.mjs": "fa147dc1bd99ba6007b207104313d4eb7f3edcea41a67863d1bfcb6bf2f80140",
+    "styles/手绘笔记/模板.html": "5240f117cedead4a34fbff452923713c5c995228033f3fdf938030a9e8e37618"
+  }
+}

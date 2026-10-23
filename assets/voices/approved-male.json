@@ -1,0 +1,11 @@
+{
+  "mode": "clone",
+  "ref_audio": "approved-male.wav",
+  "ref_text": "你可以把KV缓存，理解成大模型手边的一本草稿。前面算过的键和值，先记下来。生成下一个词元时，就能直接拿来用，少做一些重复计算。",
+  "reference_sha256": "09f1aec21169958e64b3ff8f0146cec490a1a7a53e34600fa5debddc6999536e",
+  "language": "Chinese",
+  "seed": 42,
+  "temperature": 0.7,
+  "profile_id": "approved-male-v1",
+  "model_repo": "mlx-community/Qwen3-TTS-12Hz-1.7B-Base-8bit"
+}

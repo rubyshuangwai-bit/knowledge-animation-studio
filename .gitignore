@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+node_modules/
+.env
+.env.*
+运行环境/
+models/
+*.safetensors
+*.gguf
+*.mp4
+*.mov
+*.zip
