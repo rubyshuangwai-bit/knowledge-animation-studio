@@ -1,4 +1,4 @@
 interface:
-  display_name: "knowledge-animation-studio"
+  display_name: "知识动画工作室"
   short_description: "制作有自然配音、可编辑场景和分段交付的中文知识动画视频"
   default_prompt: "用 $knowledge-animation-studio 把这个主题制作成中文知识动画，先复用已确认的声音与画风。"
